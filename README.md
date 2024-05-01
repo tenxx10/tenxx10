@@ -58,7 +58,7 @@
     - [Html, Css, JavaScript, Vscode, GitHub, Slack사용]
 
 
-+ etc 
+ etc 
 
 ## 연락처
 
