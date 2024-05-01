@@ -16,7 +16,8 @@
 - **HTML, CSS, JavaScript**: 웹 프론트엔드 개발에 필요한 기초적인 기술을 이해하고 있습니다.
 
 
-  ![image](https://github.com/tenxx10/tenxx10/assets/143534556/be2f07a2-e1c0-4d00-a258-e9f969252b07)
+![image](https://github.com/tenxx10/tenxx10/assets/143534556/8be5044c-613b-40fd-8a4d-2c7e1b11f210)
+
 
 
 ## 경험
