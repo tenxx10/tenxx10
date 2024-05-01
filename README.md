@@ -1,6 +1,6 @@
 ## 안녕하세요! 👋
 
-저는 ***이지은***이라고 합니다. 
+저는 ***이지은*** 이라고 합니다. 
 
 커뮤니케이션에 능통하고 어디서든 잘 적응하는 것이 장점입니다. 
 
@@ -19,7 +19,7 @@
 
 
   
----
+
 ## 경험
 
 - [팀 프로젝트 / 접종친구]: 백엔드 시스템 설계 및 개발
@@ -28,7 +28,8 @@
     - [지도, 캘린더, 검색 api 활용]
     - [서비스 기획 및 방향 설정 ]
   - 사용 도구 :
-    - [Java(JDK17), JSP, Html, Css, JavaScript, Eclipse 사용]
+    - [Java(JDK17), JSP, Html, Css, JavaScript, BootStrap, Eclipse 사용]
+    - [MariaDB, Apache Tomcat]
       
 
 
@@ -37,7 +38,8 @@
     - [상세 업무 내용]
     - [기여한 사항]
  - 사용 도구 :
-    - [Java(JDK11), SpringBoot, IntelliJ, GitHub 사용]
+    - [Java(JDK11), SpringBoot, JPA, Intellie J, mustache, GitHub 사용]
+    - [MariaDB, AWS EC2, RDS]
 
   
 
