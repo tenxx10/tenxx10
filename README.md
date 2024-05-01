@@ -24,22 +24,22 @@
 ## 경험
 
 #### [팀 프로젝트 / 접종친구] : 백엔드 시스템 설계 및 개발
-  - 주요 업무:
+    - 주요 업무:
     - [지도, 캘린더, 검색 api 활용]
     - [서비스 기획 및 방향 설정 ]
     - [데이터베이스 설계 및 작성]
     - [프론트엔드 전체 페이지 제작, 코드 통합 및정]
-  - 사용 도구 :
+    - 사용 도구 :
     - [Java(JDK17), JSP, Html, Css, JavaScript, BootStrap, Eclipse 사용]
     - [MariaDB, Apache Tomcat]
       
 
 
 #### [개인 프로젝트 / 오션 프로텍터 ]: 스프링부트 기반의 게시판 웹 사이트
-  - 주요 업무:
+    - 주요 업무:
     -[ ]
     - [기여한 사항]
- - 사용 도구 :
+    - 사용 도구 :
     - [Java(JDK11), SpringBoot, JPA, Intellie J, mustache, GitHub 사용]
     - [MariaDB, AWS EC2, RDS]
 
@@ -49,7 +49,7 @@
     - 주요 업무:
     - [프론트엔드 페이지 구성 ]
     - [깃허브를 통한 팀플 협업]
-   - 사용 도구 :
+    - 사용 도구 :
     - [Html, Css, JavaScript, Vscode, GitHub, Slack사용]
 
 
