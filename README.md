@@ -14,7 +14,8 @@
 - **Java**: 주력 언어로 SpringBoot Framework 등을 활용한 웹 개발 프로젝트를 진행하고 있습니다.
 - **Python**: 데이터 처리 및 자동화를 위해 사용하며, 파이썬을 활용한 웹 크롤링 경험이 있습니다.
 - **HTML, CSS, JavaScript**: 웹 프론트엔드 개발에 필요한 기초적인 기술을 이해하고 있습니다.
-- 
+
+  
 
 ## 경험
 
@@ -25,6 +26,7 @@
     - [서비스 기획 및 방향 설정 ]
   - 사용 도구 :
     - [Java(JDK17), JSP, Html, Css, JavaScript, Eclipse 사용]
+      
 
 
 - [개인 프로젝트 / 오션 프로텍터 ]: 스프링부트 기반의 게시판 웹 사이트
@@ -33,6 +35,7 @@
     - [기여한 사항]
  - 사용 도구 :
     - [Java(JDK11), SpringBoot, IntelliJ, GitHub 사용]
+
   
 
    - [팀 프로젝트 / 코딩 스쿨 ]: 프론트엔드 웹사이트
@@ -42,10 +45,13 @@
    - 사용 도구 :
     - [Html, Css, JavaScript, Vscode, GitHub, Slack사용]
 
+
 ## 연락처
 
 - 이메일: [zoxe85@gmail.com]
 - 블로그: [https://tenx1001.tistory.com/]
+
+  
 
 저는 새로운 기술을 배우고 도전하는 것을 즐기며, 협업과 소통을 중요하게 생각합니다.
 
