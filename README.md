@@ -10,7 +10,8 @@
 
 ## 기술 스택
 
-![image](https://github.com/tenxx10/tenxx10/assets/143534556/d80c1bd0-e84e-4922-bb26-bb010680cc37)
+![image](https://github.com/tenxx10/tenxx10/assets/143534556/2a0cc140-a72a-41d7-a781-c5daf9353124)
+
 
 
 - **Java**: 주력 언어로 SpringBoot Framework 등을 활용한 웹 개발 프로젝트를 진행하고 있습니다.
