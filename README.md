@@ -10,7 +10,8 @@
 
 ## 기술 스택
 
-![image](https://github.com/tenxx10/tenxx10/assets/143534556/2a0cc140-a72a-41d7-a781-c5daf9353124)
+![image](https://github.com/tenxx10/tenxx10/assets/143534556/05c369c3-11b7-4833-b8dd-2126d9f4fee0)
+
 
 
 
@@ -40,7 +41,7 @@
 #### [개인 프로젝트 / 오션 프로텍터 ]: 스프링부트 기반의 게시판 웹 사이트
    
     - 주요 업무:
-    - [ ]
+    - [　Security Oauth　 ]
     - [ ]
     
     - 사용 도구 :
