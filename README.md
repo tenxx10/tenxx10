@@ -58,6 +58,8 @@
     - [Html, Css, JavaScript, Vscode, GitHub, Slack사용]
 
 
++ etc 
+
 ## 연락처
 
 - 이메일: [zoxe85@gmail.com]
