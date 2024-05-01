@@ -10,17 +10,14 @@
 
 ## 기술 스택
 
-![image](https://github.com/tenxx10/tenxx10/assets/143534556/05c369c3-11b7-4833-b8dd-2126d9f4fee0)
-
-
-
 
 - **Java**: 주력 언어로 SpringBoot Framework 등을 활용한 웹 개발 프로젝트를 진행하고 있습니다.
 - **Python**: 데이터 처리 및 자동화를 위해 사용하며, 파이썬을 활용한 웹 크롤링 경험이 있습니다.
 - **HTML, CSS, JavaScript**: 웹 프론트엔드 개발에 필요한 기초적인 기술을 이해하고 있습니다.
 
 
-  
+  ![image](https://github.com/tenxx10/tenxx10/assets/143534556/be2f07a2-e1c0-4d00-a258-e9f969252b07)
+
 
 ## 경험
 
