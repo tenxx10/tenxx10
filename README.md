@@ -12,7 +12,7 @@
 
 ![image](https://github.com/tenxx10/tenxx10/assets/143534556/d80c1bd0-e84e-4922-bb26-bb010680cc37)
 
----
+
 - **Java**: 주력 언어로 SpringBoot Framework 등을 활용한 웹 개발 프로젝트를 진행하고 있습니다.
 - **Python**: 데이터 처리 및 자동화를 위해 사용하며, 파이썬을 활용한 웹 크롤링 경험이 있습니다.
 - **HTML, CSS, JavaScript**: 웹 프론트엔드 개발에 필요한 기초적인 기술을 이해하고 있습니다.
